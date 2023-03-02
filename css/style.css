@@ -1,0 +1,53 @@
+.task{
+	border:2px solid green;
+	margin:30px;
+    padding:10px;
+	}
+h3{
+	color:red;
+	}
+table,th,td{
+	border: 2px solid black;
+	border-collapse:collapse;
+}
+#ic{
+	background-color:yellow;
+	font-size:50px;
+	
+}
+.task1{
+	border:2px solid blue;
+	margin:30px;
+    padding:10px;
+	
+}
+span{
+	font-size:24px;
+	color:green;
+}
+.er{
+	float:right;
+	color:green;
+	line-height:1em;
+	margin-right:60px;
+	content:center;
+}	
+.ss{
+	height:300px;
+	width:300px;	
+	}
+.task2{
+	border:2px solid red;
+	margin:30px;
+    padding:10px;
+	
+}
+.wb{
+	width="3rem";
+	
+}
+.tra:: cue{
+	font-size:1rem;
+	color:red;
+}
+	
